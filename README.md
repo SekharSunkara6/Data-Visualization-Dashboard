@@ -29,38 +29,17 @@ Json file: jsondata.json
   
 <br>
 
-Important variables to be visualized
-Intensity
-Likelihood
-Relevance
-Year
-Country
-Topics
-Region
-City 
-
-Filters in the dashboard
-Add end year filter in the dashboard
-Add topics filters in the dashboard
-Add sector filter in the dashboard
-Add region filter in the dashboard
-Add PEST filter in the dashboard
-Add Source filter in the dashboard
-Add SWOT filter in the dashboard
-Country
-City
-
 # Installation
 To get started with the BlackCoffer Data Visualization Dashboard:
 
 <!-- Clone this repository: git clone https://github.com/RiteshKumarShukla/BlackCoffer-Visualization-Dashboard.gi -->
-Navigate to the project directory: cd BlackCoffer-Visualization-Dashboard
-Install dependencies:
-Backend: cd backend && npm install
-Frontend: cd frontend && npm install
-Run the application:
-Backend: cd server && npm start
-Frontend: cd client && npm start
+ Navigate to the project directory: cd BlackCoffer-Visualization-Dashboard
+ Install dependencies:
+ Backend: cd backend && npm install
+ Frontend: cd frontend && npm install
+ Run the application:
+ Backend: cd server && npm start
+ Frontend: cd client && npm start
 
 
 # Getting Started with Create React App
