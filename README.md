@@ -27,8 +27,8 @@ To get started with the BlackCoffer Data Visualization Dashboard:
     - Backend: cd backend && npm install
     - Frontend: cd frontend && npm install
  4. Run the application:
-    - Backend: cd server && npm start
-    - Frontend: cd client && npm start
+    - Backend: cd backend && npm start
+    - Frontend: cd frontend && npm start
 
 
 # Getting Started with Create React App
