@@ -2,7 +2,6 @@
 
 Data Visualization Dashboard
 Test Assignment 
-The objective of this assignment is to create a data visualization dashboard as per as instructions given below. 
 
 Data
 Json file: jsondata.json
