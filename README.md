@@ -35,11 +35,11 @@ To get started with the BlackCoffer Data Visualization Dashboard:
 1. Clone this repository: git clone https://github.com/RiteshKumarShukla/BlackCoffer-Visualization-Dashboard.gi
 2. Navigate to the project directory: cd BlackCoffer-Visualization-Dashboard
 3. Install dependencies:
- - Backend: cd backend && npm install
- - Frontend: cd frontend && npm install
+    - Backend: cd backend && npm install
+    - Frontend: cd frontend && npm install
  4. Run the application:
- - Backend: cd server && npm start
- - Frontend: cd client && npm start
+    - Backend: cd server && npm start
+    - Frontend: cd client && npm start
 
 
 # Getting Started with Create React App
