@@ -13,12 +13,12 @@ Json file: jsondata.json
 - Create a MongoDB database from the Json data given.
 - Use MERN Stack or MEAN Stack or react native to design and develop a dashboard. 
 - For charts or visualizations, you can use any of the following:
-  1)D3.js (highly recommended) 
-  2)chart.js
-  3)fusioncharts
-  4)plotly.js
-  5)google charts
-  6)highcharts
+   1)D3.js (highly recommended) 
+   2)chart.js
+   3)fusioncharts
+   4)plotly.js
+   5)google charts
+   6)highcharts
 - Use any creative visual that you can create using the data to generate insights
 - You must use the given data only.
 - Develop any creative visualization that you like most, using provided data in json.
