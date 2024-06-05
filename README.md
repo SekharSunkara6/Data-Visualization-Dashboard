@@ -31,8 +31,8 @@ Json file: jsondata.json
 # Installation
 To get started with the BlackCoffer Data Visualization Dashboard:
 
-1. Clone this repository: git clone https://github.com/RiteshKumarShukla/BlackCoffer-Visualization-Dashboard.gi
-2. Navigate to the project directory: cd BlackCoffer-Visualization-Dashboard
+1. Clone this repository: git clone https://github.com/SekharSunkara6/Data-Visualization-Dashboard.git
+2. Navigate to the project directory: cd Data-Visualization-Dashboard
 3. Install dependencies:
     - Backend: cd backend && npm install
     - Frontend: cd frontend && npm install
