@@ -6,14 +6,13 @@ The objective of this assignment is to create a data visualization dashboard as 
 
 Data
 Json file: jsondata.json
-
 <br>
 
 # Data Visualization Dashboard
-Use given json data
-Create a MongoDB database from the Json data given.
-Use MERN Stack or MEAN Stack or react native to design and develop a dashboard. 
-For charts or visualizations, you can use any of the following:
+- Use given json data
+- Create a MongoDB database from the Json data given.
+- Use MERN Stack or MEAN Stack or react native to design and develop a dashboard. 
+- For charts or visualizations, you can use any of the following:
 D3.js (highly recommended) 
 chart.js
 fusioncharts
