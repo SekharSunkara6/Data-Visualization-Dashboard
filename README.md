@@ -1,12 +1,3 @@
-# Data-Visualization-Dashboard
-
-Data Visualization Dashboard
-Test Assignment 
-
-Data
-Json file: jsondata.json
-<br>
-
 # Data Visualization Dashboard
 - Use given json data
 - Create a MongoDB database from the Json data given.
